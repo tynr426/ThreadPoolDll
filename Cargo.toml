@@ -1,5 +1,5 @@
 [package]
-name = "TheadPoolDll"
+name = "ThreadPoolDll"
 version = "0.1.0"
 authors = ["apple <tynr426@126.com>"]
 edition = "2018"
